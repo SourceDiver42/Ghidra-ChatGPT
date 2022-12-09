@@ -29,7 +29,11 @@ function or a block of code that is related to the function you are trying to un
 output the response within seconds.
 - Due to Jython shenanigans, I had to do some very ugly hacks to get this to work. I am not proud of this code.
 
+## Disclaimer
+This project is not affiliated with OpenAI in any way. Use at your own risk. I am not responsible for any damage caused by this project. Please read the OpenAI Terms of Service before using this project.
+
 ## Credits
+- [ChatGPT](https://chat.openai.com)
 - [Ghidra](https://ghidra-sre.org/)
 - [Ghidrathon](https://github.com/mandiant/Ghidrathon)
 - [pyChatGPT](https://github.com/terry3041/pyChatGPT)
